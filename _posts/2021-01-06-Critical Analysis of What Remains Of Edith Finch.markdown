@@ -10,4 +10,10 @@ tags:
 
 
 
-![img](/img/analysis.jpg)
+![img](/img/analysis1.jpg)
+
+![img](/img/analysis2.jpg)
+
+![img](/img/analysis3.jpg)
+
+![img](/img/analysis4.jpg)

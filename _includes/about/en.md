@@ -8,16 +8,12 @@ Huazhong University of Science and Technology (HUST)
 
 Bachelor’s Degree of Engineering 
 
-Specialty: Software Engineering | GPA:   3.1
+Specialty: Software Engineering
 
 #### Honor
 <small>06/2018 </small>
 
 Gold Award, Global Game Jam (GGJ) 2018, Perfect World Games                 
-
-<small>05/2017  </small>
-
-The 1st Prize, Application Development Event, Vipshop Information Technology 
 
 #### Project Experience  
 <small>08/2020</small>

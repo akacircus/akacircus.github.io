@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Critical Analysis of What Remains Of Edith Finch"
+title:      "《艾迪芬奇的记忆》批判性分析"
 date:       2021-01-06 18:05:55
 author:     "Akah"
 header-img: "img/WREF.jpg"

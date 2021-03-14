@@ -3,7 +3,8 @@ layout:     post
 title:      "「微电影」哦！我的公主殿下（上）"
 date:       2018-04-19 18:05:55
 author:     "Akah"
-header-img: "img/WREF.jpg"
+catalog: false
+header-style: text
 tags:
   - 编辑
   - 微电影

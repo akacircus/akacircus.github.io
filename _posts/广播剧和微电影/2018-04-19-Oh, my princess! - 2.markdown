@@ -3,7 +3,8 @@ layout:     post
 title:      "「微电影」哦！我的公主殿下（下）"
 date:       2018-04-19 18:05:55
 author:     "Akah"
-header-img: "img/WREF.jpg"
+catalog: false
+header-style: text
 tags:
   - 编辑
   - 微电影
@@ -205,7 +206,7 @@ tags:
 
 韶的声音：我不会离开。见到你的瞬间，我才知道，阳光是如此温柔，我才知道——
 
-韶的声音：诶导演大大！
+韶的声音：诶导演大大！你看我们
 
 
 

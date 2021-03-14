@@ -12,7 +12,7 @@ tags:
 
 >  聚会（三年后） 
 
-![img](/img/movie/pr1/1.jpg)
+![img](/img/movie/pr/pr1.jpg)
 
 韶：干了这杯！我们今天不醉不归！
 
@@ -32,7 +32,7 @@ tags:
 
 >  人海中的主角们
 
-
+![img](/img/movie/pr/pr2.jpg)
 
 >  接受舞台剧任务
 

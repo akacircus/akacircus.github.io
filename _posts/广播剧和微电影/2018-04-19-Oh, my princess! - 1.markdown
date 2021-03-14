@@ -34,7 +34,11 @@ tags:
 
 ![img](/img/movie/pr/pr2.jpg)
 
+
+
 >  接受舞台剧任务
+
+![img](/img/movie/pr/pr3.jpg)
 
 雪：<small> （拘谨、小动作多） </small>大家好，我是何雪。很高兴能进入这个剧组。嗯……我……我会好好努力的，谢谢。
 

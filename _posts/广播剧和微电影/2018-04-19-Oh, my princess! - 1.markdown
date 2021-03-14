@@ -12,7 +12,7 @@ tags:
 
 >  聚会（三年后） 
 
-![img](/img/jiaopian.jpg)
+![img](/img/movie/pr1/1.jpg)
 
 韶：干了这杯！我们今天不醉不归！
 

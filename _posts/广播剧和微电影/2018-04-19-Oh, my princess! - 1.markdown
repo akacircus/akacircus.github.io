@@ -274,9 +274,13 @@ tags:
 
 > 解放天性
 
+![img](/img/movie/pr/pr13.jpg)
+
 
 
 > 解放天性结束
+
+![img](/img/movie/pr/pr14.jpg)
 
 路人甲：（抱头）完了完了，以后都抬不起头了……
 

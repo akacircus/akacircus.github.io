@@ -98,6 +98,8 @@ tags:
 
 > 台词2
 
+![img](/img/movie/pr/pr7.jpg)
+
 路人乙：<small> （浮夸） </small>哦~亲爱的玛丽~最近怎么这么多奇怪的人~
 
 路人丙：<small> （做作） </small>哦~亲爱的露西~这都是过来逃难的人~

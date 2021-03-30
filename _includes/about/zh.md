@@ -6,9 +6,13 @@
 
 华中科技大学              软件工程专业
 
+<small>09/2021 - 08/2022 </small>
+
+PolyU              MSc MULTIMEDIA & ENTERTAINMENT TECHNOLOGY
+
 #### 项目经历
 
-<small>  **项目详情可通过“归档”中的“<项目名>”标签查看。 **  </small>
+<small>**项目详情可通过“归档”中的“项目名”标签查看。**</small>
 
 <small>08/2020</small>
 

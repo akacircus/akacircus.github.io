@@ -39,14 +39,6 @@ Gold Award, Global Game Jam (GGJ) 2018, Perfect World Games
 
 - Completed the design of gameplay and game’s world view independently; 
 
-<small>07/2018</small>
-
-**Dragon Stone**, Game Designer
-
-- Completed the design of gameplay, game’s world view, plot and the game’s related copy writing independently; 
-- Participated in discussion of game’s artistic creation meeting and finished some of the scene and character drawing; 
-- Communicated closely with the programmer to realize the in-game functions; 
-
 <small>05/2018</small>
 
 **Sucris**, Game Designer 

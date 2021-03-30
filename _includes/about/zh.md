@@ -34,13 +34,6 @@ PolyU              MSc MULTIMEDIA & ENTERTAINMENT TECHNOLOGY
 - 设计游戏玩法和世界观；
 - 作为团队内唯一的策划，负责把控时间和项目进度。
 
-<small>07/2018</small>
-
-**龙石**, 游戏设计
-
-- 设计游戏玩法、世界观，撰写游戏剧情；
-- 使用Axure制作原型。
-
 <small>05/2018</small>
 
 **Sucris**, 游戏设计
@@ -53,7 +46,7 @@ PolyU              MSc MULTIMEDIA & ENTERTAINMENT TECHNOLOGY
 **明天世界要毁灭**, 游戏设计
 
 - 设计游戏玩法、世界观，撰写游戏剧情；
-- 首次参加极限开发大赛（48h game jam），总结快速开发经验。
+- 首次参加极限开发大赛（48h game jam），使用Axure制作原型，总结快速开发经验。
 
 #### 实习经历
 

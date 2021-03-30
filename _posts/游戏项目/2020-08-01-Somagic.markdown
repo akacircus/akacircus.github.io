@@ -10,6 +10,8 @@ tags:
   - Somagic
 ---
 
+<small> 保存原图可以看得更清~ </small>
+
 ![img](/img/game/somagic/somagic_1.jpg)
 
 ![img](/img/game/somagic/somagic_2.jpg)

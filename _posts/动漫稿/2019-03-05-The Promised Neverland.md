@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "约定的梦幻岛"
+title:      "「动漫」约定的梦幻岛"
 date:       2019-03-05 12:00:00
 author:     "Akah"
 catalog: false

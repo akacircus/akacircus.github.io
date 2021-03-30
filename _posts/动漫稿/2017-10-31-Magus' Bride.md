@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "魔法使的新娘"
+title:      "「动漫」魔法使的新娘"
 date:       2017-10-31 12:00:00
 author:     "Akah"
 catalog: false

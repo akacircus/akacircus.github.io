@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "少女歌剧"
+title:      "「动漫」少女歌剧"
 date:       2018-10-30 12:00:00
 author:     "Akah"
 catalog: false

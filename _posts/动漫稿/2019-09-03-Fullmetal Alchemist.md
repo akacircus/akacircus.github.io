@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "钢之炼金术师FA"
+title:      "「动漫」钢之炼金术师FA"
 date:       2019-09-03 12:00:00
 author:     "Akah"
 catalog: false

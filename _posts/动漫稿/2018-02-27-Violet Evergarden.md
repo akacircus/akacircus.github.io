@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "紫罗兰永恒花园"
+title:      "「动漫」紫罗兰永恒花园"
 date:       2018-02-27 12:00:00
 author:     "Akah"
 catalog: false

@@ -12,3 +12,11 @@ tags:
 
 ![img](/img/game/others/others_1.jpg)
 
+![img](/img/game/others/others_2_1.jpg)
+
+![img](/img/game/others/others_2_2.jpg)
+
+![img](/img/game/others/others_3_1.jpg)
+
+![img](/img/game/others/others_3_2.jpg)
+

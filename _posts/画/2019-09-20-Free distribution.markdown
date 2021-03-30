@@ -9,4 +9,6 @@ tags:
   - 画
 ---
 
+![img](/img/art/4.gif)
+
 ![img](/img/art/5.jpg)

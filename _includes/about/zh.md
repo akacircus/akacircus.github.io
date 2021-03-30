@@ -50,8 +50,6 @@ PolyU              MSc MULTIMEDIA & ENTERTAINMENT TECHNOLOGY
 
 #### 实习经历
 
-<small>**实习详情可通过“归档”中的“实习”标签查看。**</small>
-
 <small> 07/2019-10/2019</small>
 
 **网易雷火**, 文案策划                          

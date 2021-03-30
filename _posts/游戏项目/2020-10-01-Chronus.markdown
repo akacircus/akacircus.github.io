@@ -10,5 +10,5 @@ tags:
   - Chronus
 ---
 
-![img](/img/game/chronus/chronus_1)
+![img](/img/game/chronus/chronus_1.jpg)
 

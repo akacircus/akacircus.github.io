@@ -10,5 +10,5 @@ tags:
   - Somagic
 ---
 
-![img](/img/game/somagic/somagic_1)
+![img](/img/game/somagic/somagic_1.jpg)
 

@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "「游戏」Chronus"
+date:       2020-10-01 18:05:55
+author:     "Akah"
+catalog: false
+header-style: text
+tags:
+  - 游戏
+  - Chronus
+---
+
+![img](/img/game/chronus/chronus_1)
+

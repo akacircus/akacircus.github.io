@@ -6,7 +6,7 @@ author:     "Akah"
 catalog: false
 header-style: text
 tags:
-  - 游戏策划
+  - 游戏
   - Sucris
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "「游戏」Sucris"
+title:      "「游戏」走马道"
 date:       2018-07-25 18:05:55
 author:     "Akah"
 catalog: false
 header-style: text
 tags:
-  - 游戏策划
+  - 游戏
   - 走马道
 ---
 
